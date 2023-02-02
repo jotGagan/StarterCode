@@ -5,7 +5,7 @@ public class TheArray {
     public static void change(int number) {
         number += 10;
     }
-// code
+// multiline Comment
     public static void change(int[] arr) {
 
         for (int i = 0; i < arr.length; i++) {
